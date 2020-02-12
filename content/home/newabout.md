@@ -5,18 +5,69 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  #  Order that this section will appear.
 
-title = "![MYE](img/MYE.jpg)"
+title = ""
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 +++
 
-# M. Y. Eichlersmith 
+<h1> <p><b> M. Y. Eichlersmith  </b></p> </h1>
+<p>
+<img src="/img/MYE.jpg" alt="MYE" align="right" style="width:400px;">
 
+<ul class="network-icon" aria-hidden="true">
+<li>
+  <a href="#contact"  contact>
+  <i class="fas fa-envelope fa-2x"></i>
+  </a>
+</li>
+</ul>
+&nbsp 
+<ul class="network-icon" aria-hidden="true">
+<li>
+  <a href="https://github.com/MarEichler" github>
+  <i class="fab fa-github fa-2x"></i>
+  </a>
+</li>
+</ul>
+&nbsp 
+<ul class="network-icon" aria-hidden="true">
+<li>
+  <a href="files/MYE-PublicResume.pdf" github>
+  <i class="fas fa-file-alt fa-2x"></i>
+  </a>
+</li>
+</ul>
+</p>
+Martha Y. Eichersmith (she/her/hers) is a graduate student in the Northwestern Department of Statistics where she enjoys working on projects regarding data visualization and managing logistics of different organizations on campus. She completed her undergraduate degree in Math at Gustavus Adolphus College where she worked on the Community Based Service and Learning Project and was co-captain of the women’s rugby team. After college, Martha worked for three years in investment banking at a firm based in Minneapolis, Minnesota before returning to school. Martha is original form Richfield, Minnesota and so it is no surprise she enjoys watching hockey.
 
+<html>
+<div class="col-md-7">
+<h3>Education </h3>
+<ul class="ul-edu fa-ul">
+  <li>
+    <i class="fa-li fas fa-graduation-cap"></i>
+    <div class="description">
+    <p class="course">
+      B.A. in Mathematics, 2015
+    </p>
+    <p class="institution">
+      Gustavus Adolphus College
+    </p></div></li>
+  <li>
+    <i class="fa-li fas fa-graduation-cap"></i>
+    <div class="description">
+    <p class="course">
+      Graduate Student in Statistics, On-going
+    </p>
+    <p class="institution">
+      Northwestern University
+    </p></div></li>
+</ul>
+</div>
+</html>
 
-<i class="fas fa-envelope"></i> 
 
