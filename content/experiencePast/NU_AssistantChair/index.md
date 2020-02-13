@@ -5,8 +5,8 @@ date: '2019-09-15'
 slug: assistant-chair
 categories: []
 tags: []
-subtitle: 'Northwestern University | [Hobart House (Residential College)](https://nuhobarthouse.weebly.com/) • Sep 2019'
-summary: 'Northwestern University | Hobart House (Residential College) • Sep 2019'
+subtitle: 'Northwestern University | [Hobart House (Residential College)](https://nuhobarthouse.weebly.com/) • Sep 2019 - Dec 2019'
+summary: 'Northwestern University | Hobart House (Residential College) • Sep 2019 - Dec 2019'
 authors: []
 lastmod: '2019-09-11T11:03:52-05:00'
 featured: no
