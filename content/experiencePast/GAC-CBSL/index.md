@@ -27,5 +27,5 @@ projects: []
 
  - Collected and organized Likert Scale survey results utilizing SurveyMonkey and Excel and created a long-term data set that is accessible to, and can be built upon by, future CBL staff
  - Analyzed online assessment data using R and created additional assessment tools that did not utilize Likert Scale and compared results  
- - Presented results of online assessment data analysis project to community engagement participants and faculty in April 2015 and facilitated dialogue regarding findings and future improvements ([Presentation Slides](/files/CBSL/Surveys-for-CBSL-Assesment.pdf))
+ - Presented results of online assessment data analysis project to community engagement participants and faculty in April 2015 and facilitated dialogue regarding findings and future improvements ([Presentation Slides](Surveys-for-CBSL-Assesment.pdf))
 
