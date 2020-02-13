@@ -54,7 +54,10 @@ Martha Y. Eichersmith (she/her/hers) is a graduate student in the Northwestern D
     <i class="fa-li fas fa-graduation-cap"></i>
     <div class="description">
     <p class="course">
-      B.A. in Mathematics, 2015
+        <a href="education/Gustavus">
+        B.A. in Mathematics
+        </a>
+        , 2015
     </p>
     <p class="institution">
       Gustavus Adolphus College
@@ -63,7 +66,10 @@ Martha Y. Eichersmith (she/her/hers) is a graduate student in the Northwestern D
     <i class="fa-li fas fa-graduation-cap"></i>
     <div class="description">
     <p class="course">
-      Graduate Student in Statistics, On-going
+        <a href="education/Northwestern">
+        Graduate Student in Statistics
+        </a>
+        , On-going
     </p>
     <p class="institution">
       Northwestern University
@@ -71,5 +77,8 @@ Martha Y. Eichersmith (she/her/hers) is a graduate student in the Northwestern D
 </ul>
 </div>
 </html>
+
+
+
 
 
