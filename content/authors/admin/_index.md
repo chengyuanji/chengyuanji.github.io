@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 #  Role/position
-#role: Graduate Student
+#role: 
 
 #  Organizations/Affiliations
 #organizations:
-#- name: Northwestern University
-#  url: "https://www.statistics.northwestern.edu/"
+#- name: 
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -69,10 +69,9 @@ user_groups:
 - Researchers
 - Visitors
 
-# I am a second year graduate student in the Department of Statistics at Northwestern University.  I'm interested in using my statistical knowledge and training to empower organizations to make data-driven improvements to better the community.    
+    
 ---
 
-Martha Eichersmith (she/her/hers) is a graduate student in the Northwestern Department of Statistics where she enjoys working on projects regarding data visualization and managing logistics of different organizations on campus.  She completed her undergraduate degree in Math at Gustavus Adolphus College where she worked on the Community Based Service and Learning Project and was co-captain of the women’s rugby team.  After college, Martha worked for three years in investment banking at a firm based in Minneapolis, Minnesota before returning to school.  Martha is original form Richfield, Minnesota and so it is no surprise she enjoys winter and watching hockey.  
 
 
 
