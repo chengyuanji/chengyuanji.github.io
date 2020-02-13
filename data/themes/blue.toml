@@ -1,18 +1,18 @@
 # Theme metadata
-name = "Blue Grey"
+name = "Blue"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#366BA1"
+primary = "#688092" #PRIMARY
 
 # Menu
-menu_primary = "#366BA1"
-menu_text = "#fafbfd"
-menu_text_active = "#D5AC85"
-menu_title = "#B3CDE5"#88B0D7"
+menu_primary = "#fff"
+menu_text = "#34495e"
+menu_text_active = "#688092" #PRIMARY
+menu_title = "#2b2b2b"
 
 # Home sections
-home_section_odd = "#fafbfd"
-home_section_even = "#ECF2F8"
+home_section_odd = "#rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"

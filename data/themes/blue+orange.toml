@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Blue Grey"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#366BA1"
+
+# Menu
+menu_primary = "#366BA1"
+menu_text = "#fafbfd"
+menu_text_active = "#D5AC85"
+menu_title = "#B3CDE5"#88B0D7"
+
+# Home sections
+home_section_odd = "#fafbfd"
+home_section_even = "#ECF2F8"
