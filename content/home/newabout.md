@@ -16,7 +16,7 @@ subtitle = ""
 
 <h1> <p><b> M. Y. Eichlersmith  </b></p> </h1>
 <p>
-<img src="/img/MYE.jpg" alt="MYE" align="right" style="width:400px;">
+ <img alt = '' width='400' src='/img/MYE.jpg' align="right" style="margin: 10px 10px 10px 50px;"/>
 
 <ul class="network-icon" aria-hidden="true">
 <li>
@@ -42,7 +42,10 @@ subtitle = ""
 </li>
 </ul>
 </p>
+
+<p align='justify'>
 Martha Y. Eichersmith (she/her/hers) is a graduate student in the Northwestern Department of Statistics where she enjoys working on projects regarding data visualization and managing logistics of different organizations on campus. She completed her undergraduate degree in Math at Gustavus Adolphus College where she worked on the Community Based Service and Learning Project and was co-captain of the women’s rugby team. After college, Martha worked for three years in investment banking at a firm based in Minneapolis, Minnesota before returning to school. Martha is original form Richfield, Minnesota and so it is no surprise she enjoys watching hockey.
+</p>
 
 <html>
 <div class="col-md-7">
