@@ -1,5 +1,5 @@
 ---
-title: WIST Internal Communications
+title: Communications Chair
 author: ''
 date: '2019-09-12'
 slug: communications-chair
@@ -26,7 +26,12 @@ projects: []
     </ul>
 <li>Schedule quarterly WIST lunches
 <li>	Day-of event administration for WIST events 
+<li> Designed WIST logo 
+<p>
+ <img alt = '' width='400' src='WIST-logo.png'  style="margin: 10px 10px 10px 10px;"/>
+ </p>
 </ul>
+
  
 
 
