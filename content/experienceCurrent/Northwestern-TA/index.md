@@ -17,11 +17,11 @@ image:
 projects: []
 ---
 
-## Fall 2019: STAT 210  
- 
-- Lead two sections of weekly discussion groups
-- Held office hours and graded assignments and exams 
-- [Course Evaluations](/files/TA/CTEC-STAT210.pdf)  
+
+- Lead discussion groups and clarified requirements for assignments 
+- Collaborated with professor and mentored undergraduate students
+- Held office hours and graded assignments 
+- [Evaluation Comments](CTEC-STAT210-comments.pdf) for Introduction to Statistics for the Social Sciences (STAT 210)  
 
 
 

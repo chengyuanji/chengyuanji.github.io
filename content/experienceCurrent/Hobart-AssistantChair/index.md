@@ -17,7 +17,6 @@ image:
 projects: []
 ---
 
-## Duties  
  - Assisting Chair with programming and community building by facilitating relationships with faculty fellows, implementing programs and events
  - Advising Hobart’s Executive Board and student members including overseeing spending of college’s budget
  - Coordinating Hobart’s participation in ORAI programs and events
@@ -25,5 +24,4 @@ projects: []
  - Manage faculty staff budget and facilitate spending and reimbursement 
  
  
- <img alt = '' width='300' src='MYE.jpg' align="right" style="margin: 0px 10px 0px 0px;"/>
 

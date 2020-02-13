@@ -17,7 +17,16 @@ image:
 projects: []
 ---
 
-Manage communication to WIST, marking events, and maintaining website, as well as day of event administration for the Women in Data Science (WiDS) conference.     
+<ul>
+<li>Managed communications to WIST members including
+    <ul>
+      <li> Creating and distributing paper and vitrual flyers  
+      <li> Organizing WIST members schedules to identify optimal event times
+      <li> Maintaining website  
+    </ul>
+<li>Schedule quarterly WIST lunches
+<li>	Day-of event administration for WIST events 
+</ul>
  
 
 
