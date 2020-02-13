@@ -44,7 +44,7 @@ subtitle = ""
 </p>
 
 <p align='justify'>
-Martha Y. Eichersmith (she/her/hers) is a graduate student in the Northwestern Department of Statistics where she enjoys working on projects regarding data visualization and managing logistics of different organizations on campus. She completed her undergraduate degree in Math at Gustavus Adolphus College where she worked on the Community Based Service and Learning Project and was co-captain of the women’s rugby team. After college, Martha worked for three years in investment banking at a firm based in Minneapolis, Minnesota before returning to school. Martha is original form Richfield, Minnesota and so it is no surprise she enjoys watching hockey.
+Martha Y. Eichersmith (she/her/hers) is a graduate student in the Northwestern Department of Statistics where she enjoys working on projects regarding data visualization and managing logistics of different organizations on campus. She completed her undergraduate degree in Math at Gustavus Adolphus College where she worked on the Community Based Service and Learning Project and was co-captain of the women’s rugby team. After college, Martha worked for three years in investment banking before returning to school. Martha is originally from Richfield, Minnesota and so it is no surprise she enjoys watching hockey.
 </p>
 
 <html>
