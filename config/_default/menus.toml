@@ -16,7 +16,7 @@
 
 [[main]]
   name = "Interests"
-  url = "#skills"
+  url = "#interests"
   weight = 3
 
 [[main]]
