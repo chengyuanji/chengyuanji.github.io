@@ -23,6 +23,6 @@ Major: Mathematics
 Minor: Economics  
 
  - Co-Captain, Gustavus Women's Rugby Team  
- - [CBSL Project Analyst]( {{< ref "experiencePast/GAC_CBSL" >}})
+ - [CBSL Project Analyst]( {{< ref "experiencePast/GAC_CBSL" >}}) 
  - Academic Assistanship, Department of Math and Computer Science  
  - Gustavus Women in Leadership Member 
