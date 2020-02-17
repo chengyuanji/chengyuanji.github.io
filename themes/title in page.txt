@@ -1,0 +1,25 @@
+<html>
+<style>
+h3 {
+margin: 0px 0px 0px 0px; 
+padding: 0px 0px 0px 0px;}
+
+</style>
+<body>
+
+<h3> Teaching Assistant </h3> 
+ 
+
+<p style="font-size:17px;"> 
+Northwestern University | Department of Statistics • Evanston, IL • Sep 2019
+</p> 
+
+<p style="font-size:17px;"> 
+<ul>
+<li> Lead discussion groups and clarified requirements for assignments 
+<li> Collaborated with professor and mentored undergraduate students
+<li> Held office hours and graded assignments
+</ul> </p>
+
+</body>
+</html>
