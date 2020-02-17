@@ -1,5 +1,5 @@
 ---
-title: Communications Chair
+title: Internal Communications Chair
 author: ''
 date: '2019-09-12'
 slug: communications-chair
