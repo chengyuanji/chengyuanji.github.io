@@ -6,12 +6,12 @@
 
 [[main]]
   name = "Current Roles"
-  url = "#current"
+  url = "#experienceCurrent"
   weight = 1
 
 [[main]]
   name = "Past Experience"
-  url = "#experiene"
+  url = "#experiencePast"
   weight = 2
 
 [[main]]
