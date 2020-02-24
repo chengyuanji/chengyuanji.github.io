@@ -29,7 +29,7 @@ Internal Communications Chair responsibilites focus on managing communications w
 </ul>
 
 
-### Visual Designs
+### Marketing Materials
 <ul>
 <li> Designed WIST logo 
 <p>

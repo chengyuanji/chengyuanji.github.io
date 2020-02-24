@@ -39,7 +39,7 @@ style="
 margin:0px 0px 0px 0px;
 padding: 0px 0px 0px 0px;
 ">
-Internal Communciations Chair 
+<a href="current/WIST"> Internal Communciations Chair </a> 
 </h3> 
 
 *Northwestern University | Women in Statistics (WIST) • Evanston, IL • Jun 2019*  
