@@ -19,7 +19,7 @@ projects: []
 
 ### Graduate Student in Statistics
  - [Teaching Assistant]( {{< ref "current/NU_ta" >}})
- - [Communication Chair for Women in Statistics (WIST)]( {{< ref "current/NU_communications" >}})
+ - [Internal Communication Chair for Women in Statistics (WIST)]( {{< ref "current/WIST" >}})
  - [Hobart House Assistant Chair]( {{< ref "experience/NU_assistantchair" >}})
  - Relavent Coursework: Sampling Theory and Applications, Regression Analysis, Design and Analysis of Experiments, Qualitative Data Analysis, Applied Bayesian Inference, Data Visualization (Spring 2020)  
  

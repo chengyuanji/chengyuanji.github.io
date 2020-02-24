@@ -34,6 +34,10 @@ Internal Communications Chair responsibilites focus on managing communications w
 <li> Designed WIST logo 
 <p>
  <img alt = '' width='400' src='WIST-logo.png'  style="margin: 10px 10px 10px 10px;"/>
+<li> Designed Women in Data Science (WiDS) logo for regional chicago event 
+<p> <small> <i> Note: This logo was not used on the WiDS website, but was put on hex stickers given away at the event.</small> </i> </p> 
+<p>
+ <img alt = '' width='400' src='WiDS-logo.png'  style="margin: 10px 10px 10px 10px;"/>
 <li> Flyer for Brown Bag Lunches 
 <p><a href="20191115.png"> 
 Example </a><p>
