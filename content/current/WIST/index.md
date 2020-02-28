@@ -18,23 +18,27 @@ projects: []
 ---
 
 
-Women in Statistics (WIST) is focused on building community amoung self-identifying women in statistics (including any fields that use statistics or data science).  The organization seeks to increase representation of women in statistics and strives to create a mentoring environment, through professional developement and learning opportuntities.  
+Women in Statistics (WIST) is focused on building community among self-identifying women in statistics (including any fields that use statistics or data science).  The organization seeks to increase representation of women in statistics and strives to create a mentoring environment, through professional development and learning opportunities.  
 
-Internal Communications Chair responsibilites focus on managing communications with WIST members including:  
+Internal Communications Chair responsibilities focus on managing communications with WIST members including:  
 <ul>
-  <li> Creating and distributing paper and vitrual flyers  
+  <li> Creating and distributing paper and virtual flyers  
   <li> Organizing WIST members schedules to identify optimal event times
   <li> Maintaining website  
   <li>Schedule quarterly WIST lunches
 </ul>
 
+Additionally, I worked for the
+[Women in Data Science (WiDS) Chicago Regional Event](https://widschicago.org/)
+by designing slide themes for the event
+and day-of event administration.
 
 ### Marketing Materials
 <ul>
 <li> Designed WIST logo 
 <p>
  <img alt = '' width='400' src='WIST-logo.png'  style="margin: 10px 10px 10px 10px;"/>
-<li> Designed Women in Data Science (WiDS) logo for regional chicago event 
+<li> Designed Women in Data Science (WiDS) logo for regional Chicago event 
 <p> <small> <i> Note: This logo was not used on the WiDS website, but was put on hex stickers given away at the event.</small> </i> </p> 
 <p>
  <img alt = '' width='400' src='WiDS-logo.png'  style="margin: 10px 10px 10px 10px;"/>
