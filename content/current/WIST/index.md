@@ -30,7 +30,7 @@ Internal Communications Chair responsibilities focus on managing communications 
 
 Additionally, I worked for the
 [Women in Data Science (WiDS) Chicago Regional Event](https://widschicago.org/)
-by designing slide themes for the event
+by helping put together the slide deck for the event
 and day-of event administration.
 
 ### Marketing Materials
