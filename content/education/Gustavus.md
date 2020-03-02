@@ -1,7 +1,7 @@
 ---
 title: Gustavus Adolphus College
 author: ''
-date: ''
+date: '2015-05-31'
 slug: Gustavus
 categories: []
 tags: []

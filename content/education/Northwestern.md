@@ -1,7 +1,7 @@
 ---
 title: Northwestern University
 author: ''
-date: ''
+date: '2020-03-01'
 slug: Northwestern
 categories: []
 tags: []
