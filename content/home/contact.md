@@ -30,4 +30,4 @@ subtitle = ""
 <A HREF="mailto:m.y.eichlersmith@gmail.com">m.y.eichlersmith@gmail.com</A>  
 
 
-<h3> <i class="fab fa-linkedin"></i> &nbsp; <A HREF="https://www.linkedin.com/in/myeichlersmith/"> LinkedIn </A></h3> 
+

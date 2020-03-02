@@ -38,8 +38,18 @@ subtitle = ""
 &nbsp 
 <ul class="network-icon" aria-hidden="true">
 <li>
-  <a href="files/MYE-PublicResume.pdf" github>
+  <a href="files/MYE-PublicResume.pdf" resume>
   <i class="fas fa-file-alt fa-2x"></i>
+  </a>
+</li>
+</ul>
+</li>
+</ul>
+&nbsp 
+<ul class="network-icon" aria-hidden="true">
+<li>
+  <a href="https://www.linkedin.com/in/myeichlersmith/" LinkedIn>
+  <i class="fab fa-linkedin fa-2x"></i>
   </a>
 </li>
 </ul>
