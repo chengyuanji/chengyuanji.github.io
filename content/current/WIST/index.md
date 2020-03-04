@@ -28,11 +28,6 @@ Internal Communications Chair responsibilities focus on managing communications 
   <li>Schedule quarterly WIST lunches
 </ul>
 
-Additionally, I worked for the
-[Women in Data Science (WiDS) Chicago Regional Event](https://widschicago.org/)
-by helping put together the slide deck for the event
-and day-of event administration.
-
 ### Marketing Materials
 <ul>
 <li> Designed WIST logo 
