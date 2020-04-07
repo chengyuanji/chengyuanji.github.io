@@ -31,15 +31,17 @@ Teaching Assistant
 - Collaborated with professor and mentored undergraduate students
 - Held office hours and graded assignments  
 - [Evaluation Comments](current/CTEC-STAT210-comments.pdf) for Introduction to Statistics for the Social Sciences (STAT 210) 
+<!-- image and files for home page should be in the static folder -->
 
 <br>
+
 
 <h3 
 style="
 margin:0px 0px 0px 0px;
 padding: 0px 0px 0px 0px;
 ">
-<a href="current/WIST"> Internal Communciations Chair </a> 
+<a href="experience/NU-WIST"> Internal Communciations Chair </a> 
 </h3> 
 
 *Northwestern University | Women in Statistics (WIST) • Evanston, IL • Jun 2019*  
@@ -55,5 +57,6 @@ padding: 0px 0px 0px 0px;
 <li> Designed WIST logo 
 <p>
  <img alt = '' width='400' src='current/WIST-logo.png'  style="margin: 10px 10px 10px 10px;"/>
- </p>
+ </p> 
+<!-- image and files for home page should be in the static folder -->
 </ul> 
