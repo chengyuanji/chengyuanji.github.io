@@ -9,6 +9,6 @@ date: "2020-04-27T00:00:00Z"
 external_link: http://tbe1.netlify.app
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+#  caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 ---
