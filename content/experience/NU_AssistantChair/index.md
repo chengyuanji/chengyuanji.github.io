@@ -1,7 +1,7 @@
 ---
 title: Assistant Chair
 author: ''
-date: '2019-09-15'
+date: '2019-12-15'
 slug: assistant-chair
 categories: []
 tags: []
