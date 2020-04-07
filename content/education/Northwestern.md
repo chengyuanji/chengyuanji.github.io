@@ -17,7 +17,20 @@ image:
 projects: []
 ---
 
-### Graduate Student in Statistics
+<style>
+p.extra {
+  font-size: .9rem; 
+  color: rgba(0,0,0,0.6);
+  margin: 0px 0px 0px 1px; 
+}
+</style>
+
+<div class="row">
+  <div class="col-md-12">
+    <h3 style="margin:0px;">Graduate Student in Statistics</h3>
+        <!-- <p class="extra">Summa Cum Laude </p> --> 
+  </div>
+</div>
 
  - [Teaching Assistant]( {{< ref "experience/NU-TA" >}})
  - [Internal Communication Chair for Women in Statistics (WIST)]( {{< ref "experience/NU-WIST" >}})
