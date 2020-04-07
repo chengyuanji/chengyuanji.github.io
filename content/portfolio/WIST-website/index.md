@@ -1,6 +1,6 @@
 ---
 title: WIST Website
-summary: Build WIST website utilizing the Academic Hugo template.
+summary: Build website utilizing the Academic Hugo template.
 tags:
 #- Demo
 date: "2020-04-27T00:00:00Z"
