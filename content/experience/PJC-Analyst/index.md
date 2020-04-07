@@ -2,7 +2,7 @@
 title: Investment Banking Analyst
 author: ''
 date: '2018-05-31'
-slug: investment-banking-analyst
+slug: PJC-Analyst
 categories: []
 tags: []
 subtitle: '[Piper Jaffray](http://www.piperjaffray.com/) | Public Finance 

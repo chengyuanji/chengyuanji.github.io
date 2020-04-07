@@ -2,7 +2,7 @@
 title: Teaching Assistant
 author: ''
 date: '2020-04-06'
-slug: teaching-assistant
+slug: NU-TA
 categories: []
 tags: []
 subtitle: 'Northwestern University | [Department of Statistics](https://www.statistics.northwestern.edu/) • Evanston, IL • Sep 2019'

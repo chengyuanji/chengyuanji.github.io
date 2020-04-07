@@ -2,7 +2,7 @@
 title: Internal Communications Chair
 author: ''
 date: '2020-04-07'
-slug: WIST
+slug: NU-WIST
 categories: []
 tags: []
 subtitle: 'Northwestern University | [Women in Statistics (WIST)](https://www.statistics.northwestern.edu/research/women-in-statistics/) • Evanston, IL • Jun 2019'

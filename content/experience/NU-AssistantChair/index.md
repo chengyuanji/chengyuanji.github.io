@@ -2,7 +2,7 @@
 title: Assistant Chair
 author: ''
 date: '2019-12-15'
-slug: assistant-chair
+slug: NU-AssistantChair
 categories: []
 tags: []
 subtitle: 'Northwestern University | [Hobart House (Residential College)](https://nuhobarthouse.weebly.com/) • Sep 2019 - Dec 2019'

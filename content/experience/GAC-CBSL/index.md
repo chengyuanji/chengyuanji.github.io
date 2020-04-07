@@ -2,7 +2,7 @@
 title: Community-Based Service and Learning Project Analyst
 author: ''
 date: '2015-05-31'
-slug: CBSL
+slug: GAC-CBSL
 categories: []
 tags: []
 subtitle: '
