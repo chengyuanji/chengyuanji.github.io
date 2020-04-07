@@ -1,7 +1,7 @@
 ---
 title: Internal Communications Chair
 author: ''
-date: '2019-09-12'
+date: '2020-04-07'
 slug: WIST
 categories: []
 tags: []
@@ -17,6 +17,7 @@ image:
 projects: []
 ---
 
+document.getElementById('datePicker').valueAsDate = new Date();
 
 Women in Statistics (WIST) is focused on building community among self-identifying women in statistics (including any fields that use statistics or data science).  The organization seeks to increase representation of women in statistics and strives to create a mentoring environment, through professional development and learning opportunities.  
 
