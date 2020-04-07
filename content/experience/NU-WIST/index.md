@@ -17,8 +17,6 @@ image:
 projects: []
 ---
 
-document.getElementById('datePicker').valueAsDate = new Date();
-
 Women in Statistics (WIST) is focused on building community among self-identifying women in statistics (including any fields that use statistics or data science).  The organization seeks to increase representation of women in statistics and strives to create a mentoring environment, through professional development and learning opportunities.  
 
 Internal Communications Chair responsibilities focus on managing communications with WIST members including:  
@@ -35,7 +33,7 @@ Internal Communications Chair responsibilities focus on managing communications 
 <p>
  <img alt = '' width='400' src='WIST-logo.png'  style="margin: 10px 10px 10px 10px;"/>
 <li> Designed Women in Data Science (WiDS) logo for regional Chicago event 
-<p> <small> <i> Note: This logo was not used on the WiDS website, but was put on hex stickers given away at the event.</small> </i> </p> 
+<p> <small> <i> Note: This logo was put on hex stickers given away at the event.</small> </i> </p> 
 <p>
  <img alt = '' width='400' src='WiDS-logo.png'  style="margin: 10px 10px 10px 10px;"/>
 <li> Flyer for Brown Bag Lunches 
