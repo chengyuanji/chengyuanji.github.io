@@ -23,7 +23,5 @@ projects: []
  - [Internal Communication Chair for Women in Statistics (WIST)]( {{< ref "experience/NU-WIST" >}})
  - [Hobart House Assistant Chair]( {{< ref "experience/NU-AssistantChair" >}})
  - Relavent Coursework: Sampling Theory and Applications, Regression Analysis, Design and Analysis of Experiments, Qualitative Data Analysis, Applied Bayesian Inference, Data Visualization (Spring 2020)  
- 
---> 
 
 
