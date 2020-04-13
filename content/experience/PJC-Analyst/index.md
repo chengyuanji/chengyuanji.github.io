@@ -45,4 +45,8 @@ projects: []
  - Assisted senior bankers in executing a new money repositioning project  
  - Utilized a draw-down structure to decrease the interest expense of the project during construction and stabilization  
 
-
+### Software  
+- DBC Finance
+- Excel (VBA)  
+- PowerPoint and Word  
+- Bloomberg Terminal 

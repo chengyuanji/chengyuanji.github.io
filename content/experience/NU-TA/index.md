@@ -23,6 +23,8 @@ projects: []
 - Held office hours and graded assignments 
 - [Evaluation Comments](CTEC-STAT210-comments.pdf) for Introduction to Statistics for the Social Sciences (STAT 210)  
 
-
+### Software and Tools
+- R / RStudio  
+- GitHub  
 
 

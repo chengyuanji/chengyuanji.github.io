@@ -50,5 +50,9 @@ Example </a><p>
  </p>
 </ul> 
 
-
+### Software and Tools
+- GIMP (open source graphics editor)
+- PowerPoint (for making flyers)
+- R / RStudio  
+- GitHub  
 
