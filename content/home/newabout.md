@@ -55,8 +55,8 @@ subtitle = ""
 </ul>
 </p>
 
-<p align='justify'>
-Martha Y. Eichersmith (she/her/hers) is a graduate student in the Northwestern Department of Statistics where she enjoys working on projects regarding data visualization and managing logistics of different organizations on campus. She completed her undergraduate degree in Math at Gustavus Adolphus College where she worked on the Community Based Service and Learning Project and was co-captain of the women’s rugby team. After college, Martha worked for three years in investment banking before returning to school. Martha is originally from Richfield, Minnesota and so it is no surprise she enjoys watching hockey.
+<p align='left'>
+Hello!  I'm Martha (she/her/hers) and currently I am a graduate student in the Northwestern Department of Statistics where I enjoy working on visual projects and managing communication for the Women in Statistics group.  I completed my undergraduate degee in Math at Gustavus Adolphus College where I worked on the Community Based Service and Leaning Project and was co-captain of the women's rugby team.  After college, I worked for three years in investment banking before return to grad school.  I'm originally from Minnesota and so it is no surprise that I enjoy watch hockey.  
 </p>
 
 <html>
