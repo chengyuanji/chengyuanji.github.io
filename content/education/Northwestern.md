@@ -35,6 +35,11 @@ p.extra {
  - [Teaching Assistant]( {{< ref "experience/NU-TA" >}})
  - [Internal Communication Chair for Women in Statistics (WIST)]( {{< ref "experience/NU-WIST" >}})
  - [Hobart House Assistant Chair]( {{< ref "experience/NU-AssistantChair" >}})
- - Relavent Coursework: Sampling Theory and Applications, Regression Analysis, Design and Analysis of Experiments, Qualitative Data Analysis, Applied Bayesian Inference, Data Visualization (Spring 2020)  
+ - **Relavent Coursework:** 
+ Sampling Theory and Applications, 
+ Regression Analysis, Design and Analysis of Experiments,
+ [Qualitative Data Analysis](https://github.com/MarEichler/STAT455-Fall2019), 
+ [Applied Bayesian Inference](https://github.com/MarEichler/STAT457-Fall2019), 
+ [Data Visualization](https://mareichler.github.io/STAT302-Spring2020/)  
 
 
