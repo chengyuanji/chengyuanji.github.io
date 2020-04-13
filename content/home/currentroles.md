@@ -41,14 +41,14 @@ style="
 margin:0px 0px 0px 0px;
 padding: 0px 0px 0px 0px;
 ">
-<a href="experience/NU-WIST"> Internal Communciations Chair </a> 
+<a href="experience/NU-WIST"> Internal Communications Chair </a> 
 </h3> 
 
 *Northwestern University | Women in Statistics (WIST) • Evanston, IL • Jun 2019*  
 <ul>
 <li>Managed communications to WIST members including
     <ul>
-      <li> Creating and distributing paper and vitrual flyers  
+      <li> Creating and distributing paper and virtual flyers  
       <li> Organizing WIST members schedules to identify optimal event times
       <li> Maintaining website  
     </ul>
