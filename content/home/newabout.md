@@ -59,6 +59,11 @@ subtitle = ""
 Hello!  I'm Martha (she/her/hers) and currently I am a graduate student in the Northwestern Department of Statistics where I enjoy working on visual projects and managing communication for the Women in Statistics group.  I completed my undergraduate degree in Math at Gustavus Adolphus College where I worked on the Community Based Service and Leaning Project and was co-captain of the women's rugby team.  After college, I worked for three years in investment banking before return to grad school.  I'm originally from Minnesota and so it is no surprise that I enjoy watch hockey.  
 </p>
 
+<p align='left'>
+I am tracking the COVID-19 data as it become available; you can see it 
+<a href=https://mareichler.github.io/covid19/ target="_blank">here</a>.
+</p> 
+
 <html>
 <div class="col-md-7">
 <h3>Education </h3>
