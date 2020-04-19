@@ -43,6 +43,5 @@ p.extra {
    - [Qualitative Data Analysis](https://github.com/MarEichler/STAT455-Fall2019)  
    - [Applied Bayesian Inference](https://github.com/MarEichler/STAT457-Fall2019)  
    - [Data Visualization](https://mareichler.github.io/STAT302-Spring2020/)  
-   - [Nonparametric Statistical Methods](https://github.com/MarEichler/STAT352-Spring2020)
 
 
