@@ -52,6 +52,7 @@ padding: 0px 0px 0px 0px;
       <li> Organizing WIST members schedules to identify optimal event times
       <li> Maintaining website  
     </ul>
+<li> Facilitating weekly <a href="https://mareichler.github.io/WISTDiscussion/" target = "_blank">  book discussions </a> 
 <li>Schedule quarterly WIST lunches
 <li>	Day-of event administration for WIST events 
 <li> Designed WIST logo 

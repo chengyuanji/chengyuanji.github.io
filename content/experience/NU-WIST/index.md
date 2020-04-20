@@ -25,6 +25,13 @@ Internal Communications Chair responsibilities focus on managing communications 
   <li> Organizing WIST members schedules to identify optimal event times
   <li> Maintaining website  
   <li>Schedule quarterly WIST lunches
+  <li> Facilitating weekly book discussions 
+      <ul>
+          <li> Update and maintain <a href="https://mareichler.github.io/WISTDiscussion/" target = "_blank">  discussion web page </a> 
+          <li> Manage <a href="https://perusall.com/" target="_blank"> Perusall </a> site 
+          <li> Write discussion questions 
+          <li> Lead discussion group 
+      </ul>
 </ul>
 
 ### Marketing Materials
@@ -52,5 +59,6 @@ Example </a><p>
 
 ### Software and Tools
 - GIMP (open source graphics editor)
-- PowerPoint (for making flyers)
+- PowerPoint (for making flyers)  
+- R / RStudio, GitHub, HTML (for webpages)
 
