@@ -30,7 +30,8 @@ Teaching Assistant
 - Lead discussion groups and clarified requirements for assignments 
 - Collaborated with professor and mentored undergraduate students
 - Held office hours and graded assignments  
-- [Evaluation Comments](current/CTEC-STAT210-comments.pdf) for Introduction to Statistics for the Social Sciences (STAT 210) 
+- [Evaluation Comments](current/CTEC-STAT210-Fall2019.pdf) for Introduction to Statistics for the Social Sciences (STAT 210) - Fall 2019 
+- [Evaluation Comments](current/CTEC-STAT202-Spring2020.pdf) for Introduction to Statistics (STAT 202) - Spring 2020
 <!-- image and files for home page should be in the static folder -->
 
 <br>
