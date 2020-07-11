@@ -1,15 +1,15 @@
 ---
 title: Internal Communications Chair
 author: ''
-date: '2020-04-07'
+date: '2020-07-07'
 slug: NU-WIST
 categories: []
 tags: []
-subtitle: 'Northwestern University | [Women in Statistics (WIST)](https://www.statistics.northwestern.edu/research/women-in-statistics/) • Evanston, IL • Jun 2019'
-summary: 'Northwestern University | Women in Statistics (WIST) • Evanston, IL • Jun 2019'
+subtitle: 'Northwestern University | [Women in Statistics (WIST)](https://wistnu.netlify.app/) • Evanston, IL • Jun 2019'
+summary: 'Northwestern University | Women in Statistics (WIST) • Evanston, IL • Jun 2019 - Aug 2020'
 authors: []
 lastmod: '2019-09-11T11:03:52-05:00'
-featured: no
+featured: yes
 image:
   caption: ''
   focal_point: ''
@@ -23,12 +23,11 @@ Internal Communications Chair responsibilities focus on managing communications 
 <ul>
   <li> Creating and distributing paper and virtual flyers  
   <li> Organizing WIST members schedules to identify optimal event times
-  <li> Maintaining website  
-  <li>Schedule quarterly WIST lunches
+  <li> Built <a href ='https://wistnu.netlify.app/' target = "_blank" > WIST website </a> using the Academic Hugo template, <a href = 'https://github.com/WISTNU/website' target = "_blank"> <i class="fab fa-github"></i> GitHub </a>
+  <li> Schedule quarterly WIST lunches
   <li> Facilitating weekly book discussions 
       <ul>
           <li> Update and maintain <a href="https://mareichler.github.io/WISTDiscussion/" target = "_blank">  discussion web page </a> 
-          <li> Manage <a href="https://perusall.com/" target="_blank"> Perusall </a> site 
           <li> Write discussion questions 
           <li> Lead discussion group 
       </ul>
