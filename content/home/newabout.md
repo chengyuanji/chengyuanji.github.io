@@ -56,11 +56,11 @@ subtitle = ""
 </p>
 
 <p align='left'>
-Hello!  I'm Martha (she/her/hers) and currently I am a graduate student in the Northwestern Department of Statistics where I enjoy working on visual projects and managing communication for the Women in Statistics group.  I completed my undergraduate degree in Math at Gustavus Adolphus College where I worked on the Community Based Service and Leaning Project and was co-captain of the women's rugby team.  After college, I worked for three years in investment banking before return to grad school.  I'm originally from Minnesota and so it is no surprise that I enjoy watching hockey.  
+Hello!  I'm Martha (she/her/hers) and currently I am a junior research programmer at Social Policy Research Associates.  My job is to provide programming assistance with data management, analysis and visualizations to a variety of teams at SPR.  I completed my M.S. in Statistics at Northwestern University and my B.A. in Math at Gustavus Adolphus College.  Between undergrad at graduate school, I worked for three years in investment banking.  I'm originally from Minnesota and so it is no surprise that I enjoy watching hockey.  
 </p>
 
 <p align='left'>
-I am tracking the COVID-19 data as it become available; you can see it 
+I am tracking the COVID-19 data as it becomes available; you can see it 
 <a href=https://mareichler.github.io/covid19/ target="_blank">here</a>.
 </p> 
 
@@ -85,9 +85,9 @@ I am tracking the COVID-19 data as it become available; you can see it
     <div class="description">
     <p class="course">
         <a href="education/Northwestern">
-        Graduate Student in Statistics
+        M.S. in Statistics 
         </a>
-        , On-going
+        , 2020
     </p>
     <p class="institution">
       Northwestern University
