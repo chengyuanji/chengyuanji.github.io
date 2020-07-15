@@ -73,9 +73,7 @@ I am tracking the COVID-19 data as it becomes available; you can see it
     <div class="description">
     <p class="course">
         <a href="education/Gustavus">
-        B.A. in Mathematics
-        </a>
-        , 2015
+        B.A. in Mathematics</a>, 2015
     </p>
     <p class="institution">
       Gustavus Adolphus College
@@ -85,9 +83,7 @@ I am tracking the COVID-19 data as it becomes available; you can see it
     <div class="description">
     <p class="course">
         <a href="education/Northwestern">
-        M.S. in Statistics 
-        </a>
-        , 2020
+        M.S. in Statistics</a>, 2020
     </p>
     <p class="institution">
       Northwestern University
