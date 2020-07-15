@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "Current Roles"
+title = "Current Role"
 subtitle = ""
 
 [design]
@@ -21,44 +21,19 @@ style="
 margin:0px 0px 0px 0px;
 padding: 0px 0px 0px 0px;
 ">
-Teaching Assistant 
+Junior Research Programmer  
 </h3> 
 
 
 
-*Northwestern University | Department of Statistics • Evanston, IL • Sep 2019*  
-- Lead discussion groups and clarified requirements for assignments 
-- Collaborated with professor and mentored undergraduate students
-- Held office hours and graded assignments  
-- [Evaluation Comments](current/CTEC-STAT210-Fall2019.pdf) for Introduction to Statistics for the Social Sciences (STAT 210) - Fall 2019 
-- [Evaluation Comments](current/CTEC-STAT202-Spring2020.pdf) for Introduction to Statistics (STAT 202) - Spring 2020
+*Social Policy Research Associates (SPR) • Oakland, CA • Aug 2020*  
+- Develop and manage datasets with documentation 
+- Creating analytic files per project team requests
+- Developing reproducible programs for data management tasks
+- Helping prepare portions of reports and proposals, including both writing and data displays
+- Production of tables or preparation of material to support analyses
+
 <!-- image and files for home page should be in the static folder -->
 
-<br>
 
 
-<h3 
-style="
-margin:0px 0px 0px 0px;
-padding: 0px 0px 0px 0px;
-">
-<a href="experience/NU-WIST"> Internal Communications Chair </a> 
-</h3> 
-
-*Northwestern University | Women in Statistics (WIST) • Evanston, IL • Jun 2019*  
-<ul>
-<li>Managed communications to WIST members including
-    <ul>
-      <li> Creating and distributing paper and virtual flyers  
-      <li> Organizing WIST members schedules to identify optimal event times
-      <li> Maintaining website  
-    </ul>
-<li> Facilitating weekly <a href="https://mareichler.github.io/WISTDiscussion/" target = "_blank">  book discussions </a> 
-<li>Schedule quarterly WIST lunches
-<li>	Day-of event administration for WIST events 
-<li> Designed WIST logo 
-<p>
- <img alt = '' width='400' src='current/WIST-logo.png'  style="margin: 10px 10px 10px 10px;"/>
- </p> 
-<!-- image and files for home page should be in the static folder -->
-</ul> 
