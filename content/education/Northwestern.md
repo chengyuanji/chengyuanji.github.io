@@ -27,7 +27,7 @@ p.extra {
 
 <div class="row">
   <div class="col-md-12">
-    <h3 style="margin:0px;">Graduate Student in Statistics</h3>
+    <h3 style="margin:0px;">M.S. in Statistics, 2020</h3>
         <!-- <p class="extra">Summa Cum Laude </p> --> 
   </div>
 </div>
