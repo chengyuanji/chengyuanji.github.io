@@ -15,6 +15,13 @@ subtitle = ""
   name = "Knitting"
   description = "[Knitting](https://www.ravelry.com/about) is my favorite past-time"
   
+
+[[feature]]
+  icon = "seedling"
+  icon_pack = "fas"
+  name = "Vegan"
+  description = "Go Vegan! For [the animals](https://www.dominionmovement.com/watch), [the planet](http://www.cowspiracy.com/facts), and [yourself](https://gamechangersmovie.com/)."
+  
 [[feature]]
   icon = "recycle"
   icon_pack = "fas"
@@ -30,8 +37,8 @@ subtitle = ""
 [[feature]]
   icon = "paw"
   icon_pack = "fas"
-  name = "Pets"
-  description = "I have two guinea pigs: [Daffodil and Blossom](/img/Peegs.jpg), they are very cute"
+  name = "Animal Companions"
+  description = "I share my life with two guinea pigs: [Daffodil and Blossom](/img/Peegs.JPG), they are very cute"
   
   [[feature]]
   icon = "hockey-puck"
@@ -39,11 +46,6 @@ subtitle = ""
   name = "Hockey"
   description = "Being from Minneasota, it's no surprise that I love watching hockey, especially the [Whitecaps](https://whitecaps.nwhl.zone/) and the [Wild](https://www.nhl.com/wild)"
   
-[[feature]]
-  icon = "seedling"
-  icon_pack = "fas"
-  name = "Vegan"
-  description = "Go Vegan! It's better for [you](https://gamechangersmovie.com/), [the animals](https://www.dominionmovement.com/#), and [the planet](http://www.cowspiracy.com/facts)"
 
 +++
 
