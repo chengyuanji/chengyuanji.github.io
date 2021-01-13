@@ -15,7 +15,7 @@ subtitle = ""
 # link = slug!! 
 +++
 
-
+<a href="{{< ref "experience/SPRA-Programmer" >}}">
 <h3 
 style="
 margin:0px 0px 0px 0px;
@@ -23,8 +23,7 @@ padding: 0px 0px 0px 0px;
 ">
 Junior Research Programmer  
 </h3> 
-
-
+</a>
 
 *Social Policy Research Associates (SPR) • Oakland, CA • Aug 2020*  
 - Develop and manage datasets with documentation 
