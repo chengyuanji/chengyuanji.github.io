@@ -6,7 +6,7 @@ slug: NU-WIST
 categories: []
 tags: []
 subtitle: '[Social Policy Research Associates](https://www.spra.com/) • Oakland, CA • Aug 2020'
-summary: '[Social Policy Research Associates](https://www.spra.com/) • Oakland, CA • Aug 2020'
+summary: 'Social Policy Research Associates • Oakland, CA • Aug 2020'
 authors: []
 lastmod: '2019-09-11T11:03:52-05:00'
 featured: yes
