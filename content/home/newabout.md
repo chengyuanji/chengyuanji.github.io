@@ -35,7 +35,15 @@ subtitle = ""
   </a>
 </li>
 </ul>
-&nbsp 
+&nbsp
+<ul class="network-icon" aria-hidden="true">
+<li>
+  <a href="https://github.com/mareichler-spra" SPRA GitHub>
+  <i class="fab fa-github-square fa-2x"></i>
+  </a>
+</li>
+</ul>
+&nbsp
 <ul class="network-icon" aria-hidden="true">
 <li>
   <a href="files/MYE-PublicResume.pdf" resume>
@@ -72,7 +80,7 @@ I am tracking the COVID-19 data as it becomes available; you can see it
     <i class="fa-li fas fa-graduation-cap"></i>
     <div class="description">
     <p class="course">
-        <a href="education/Gustavus">
+        <a href="{{< ref "education/Gustavus" >}}">     
         B.A. in Mathematics</a>, 2015
     </p>
     <p class="institution">
@@ -82,7 +90,7 @@ I am tracking the COVID-19 data as it becomes available; you can see it
     <i class="fa-li fas fa-graduation-cap"></i>
     <div class="description">
     <p class="course">
-        <a href="education/Northwestern">
+        <a href="{{< ref "education/Northwestern" >}}">  
         M.S. in Statistics</a>, 2020
     </p>
     <p class="institution">
