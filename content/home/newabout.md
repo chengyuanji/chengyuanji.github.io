@@ -42,7 +42,7 @@ subtitle = ""
   <i class="fab fa-github-square fa-2x"></i>
   </a>
 </li>
-</ul>
+</ul> 
 &nbsp
 <ul class="network-icon" aria-hidden="true">
 <li>

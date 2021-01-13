@@ -51,6 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/MarEichler
+- icon: github-square
+  icon_pack: fab
+  link: https://github.com/MarEichler-spra
 - icon: file-alt
   icon_pack: fas
   link: files/MYE-PublicResume.pdf
