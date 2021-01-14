@@ -22,7 +22,7 @@ subtitle = ""
 
 <ul class="network-icon" aria-hidden="true">
 <li>
-  <a href="#contact"  contact>
+  <a href="#contact"  title = "Contact">
   <i class="fas fa-envelope fa-2x"></i>
   </a>
 </li>
@@ -30,7 +30,7 @@ subtitle = ""
 &nbsp 
 <ul class="network-icon" aria-hidden="true">
 <li>
-  <a href="https://github.com/MarEichler" github>
+  <a href="https://github.com/MarEichler" title = "Personal GitHub">
   <i class="fab fa-github fa-2x"></i>
   </a>
 </li>
@@ -38,7 +38,7 @@ subtitle = ""
 &nbsp
 <ul class="network-icon" aria-hidden="true">
 <li>
-  <a href="https://github.com/mareichler-spra" SPRA GitHub>
+  <a href="https://github.com/mareichler-spra" title = "SPRA GitHub">
   <i class="fab fa-github-square fa-2x"></i>
   </a>
 </li>
@@ -46,7 +46,7 @@ subtitle = ""
 &nbsp
 <ul class="network-icon" aria-hidden="true">
 <li>
-  <a href="files/MYE-PublicResume.pdf" resume>
+  <a href="files/MYE-PublicResume.pdf" title = "Resume">
   <i class="fas fa-file-alt fa-2x"></i>
   </a>
 </li>
@@ -56,7 +56,7 @@ subtitle = ""
 &nbsp 
 <ul class="network-icon" aria-hidden="true">
 <li>
-  <a href="https://www.linkedin.com/in/myeichlersmith/" LinkedIn>
+  <a href="https://www.linkedin.com/in/myeichlersmith/" title = "LinkedIn">
   <i class="fab fa-linkedin fa-2x"></i>
   </a>
 </li>

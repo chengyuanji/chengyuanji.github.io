@@ -42,6 +42,7 @@ social:
 - icon: envelope
   icon_pack: fas 
   link: '#contact' # For a direct email link, use "mailto:test@example.org".
+  title: 'Contact'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -51,15 +52,19 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/MarEichler
+  title: 'Personal GitHub'
 - icon: github-square
   icon_pack: fab
   link: https://github.com/MarEichler-spra
+  title: 'SPRA GitHub'
 - icon: file-alt
   icon_pack: fas
   link: files/MYE-PublicResume.pdf
+  title: 'Resume'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/myeichlersmith/
+  title: 'LinkedIn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
