@@ -13,8 +13,9 @@
     {{ else if in (slice "http" "https") $scheme }}
       {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
     {{ end }}
+    {{ $name := .title}}
     <li>
-      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} title = "{{ $name }}">
         <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
       </a>
     </li>
