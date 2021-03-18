@@ -69,7 +69,7 @@ Hello!  I'm Martha (she/her/hers) and currently I am a junior research programme
 
 <p align='left'>
 I am tracking the COVID-19 data as it becomes available; you can see it 
-<a href=https://mareichler.github.io/covid19/ target="_blank">here</a>.
+<a href=https://github.com/MarEichler/covid19 target="_blank">here</a>.
 </p> 
 
 <html>
