@@ -20,7 +20,7 @@ subtitle = ""
   icon = "seedling"
   icon_pack = "fas"
   name = "Vegan"
-  description = "Go Vegan! For [the animals](https://www.dominionmovement.com/watch), [the planet](http://www.cowspiracy.com/facts), and [yourself](https://gamechangersmovie.com/)."
+  description = "Go Vegan! For [the animals](https://www.dominionmovement.com/watch), [the planet](https://science.sciencemag.org/content/360/6392/987), and [yourself](https://gamechangersmovie.com/)."
   
 [[feature]]
   icon = "recycle"
