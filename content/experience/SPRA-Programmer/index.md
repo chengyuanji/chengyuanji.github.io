@@ -2,7 +2,7 @@
 title: Junior Research Programmer
 author: ''
 date: '2020-08-03'
-slug: NU-WIST
+slug: spra-programmer
 categories: []
 tags: []
 subtitle: '[Social Policy Research Associates](https://www.spra.com/) • Oakland, CA • Aug 2020'
