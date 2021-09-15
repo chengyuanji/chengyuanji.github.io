@@ -18,7 +18,7 @@ subtitle = ""
 
 <h1> <p><b> M. Y. Eichlersmith  </b></p> </h1>
 <p>
- <img alt = '' width='400' src='/img/MYE.jpg' align="right" style="margin: 10px 10px 10px 50px;"/>
+ <img alt = 'Headshot of M. Y. Eichlersmith' width='400' src='/img/MYE.jpg' align="right" style="margin: 10px 10px 10px 50px;"/>
 
 <ul class="network-icon" aria-hidden="true">
 <li>
@@ -64,7 +64,7 @@ subtitle = ""
 </p>
 
 <p align='left'>
-Hello!  I'm Martha (she/her/hers) and currently I am a junior research programmer at Social Policy Research Associates.  My job is to provide programming assistance with data management, analysis and visualizations to a variety of teams at SPR.  I completed my M.S. in Statistics at Northwestern University and my B.A. in Math at Gustavus Adolphus College.  Between undergrad at graduate school, I worked for three years in investment banking.  I'm originally from Minnesota and so it is no surprise that I enjoy watching hockey.  
+Hello!  I'm Martha (she/her/hers) and currently I am a research programmer at Social Policy Research Associates.  My job is to provide programming for data management, analysis and visualizations to a variety of teams at SPR.  I completed my M.S. in Statistics at Northwestern University and my B.A. in Math at Gustavus Adolphus College.  Between undergrad at graduate school, I worked for three years in investment banking.  I'm originally from Minnesota and so it is no surprise that I enjoy watching hockey.  
 </p>
 
 <p align='left'>

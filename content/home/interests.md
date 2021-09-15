@@ -38,7 +38,7 @@ subtitle = ""
   icon = "paw"
   icon_pack = "fas"
   name = "Animal Companions"
-  description = "I share my life with two guinea pigs: [Daffodil and Blossom](/img/Peegs.JPG), they are very cute"
+  description = "I share my life guinea pigs: [Daffodil and Blossom](/img/Peegs.JPG), they are very cute"
   
   [[feature]]
   icon = "hockey-puck"

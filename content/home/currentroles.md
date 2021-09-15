@@ -21,7 +21,7 @@ style="
 margin:0px 0px 0px 0px;
 padding: 0px 0px 0px 0px;
 ">
-Junior Research Programmer  
+Research Programmer  
 </h3> 
 </a>
 
@@ -29,8 +29,9 @@ Junior Research Programmer
 - Develop and manage datasets with documentation 
 - Creating analytic files per project team requests
 - Developing reproducible programs for data management tasks
-- Helping prepare portions of reports and proposals, including both writing and data displays
 - Production of tables or preparation of material to support analyses
+- Create and design data visualizations (both static and dynamic)
+- Develop and maintain R Shiny applications for clients 
 
 <!-- image and files for home page should be in the static folder -->
 

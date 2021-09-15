@@ -1,5 +1,5 @@
 ---
-title: Junior Research Programmer
+title: Research Programmer
 author: ''
 date: '2020-08-03'
 slug: spra-programmer
@@ -17,12 +17,20 @@ image:
 projects: []
 ---
 
+| Period | Role | 
+|------|------| 
+|Aug 2021 - Present  | Research Programmer | 
+|Aug 2020 - Aug 2021 | Junior Research Programmer |
+
 
 - Develop and manage datasets with documentation 
 - Creating analytic files per project team requests
 - Developing reproducible programs for data management tasks
-- Helping prepare portions of reports and proposals, including both writing and data displays
 - Production of tables or preparation of material to support analyses
+- Create and design data visualizations (both static and dynamic)
+- Develop and maintain R Shiny applications for clients 
+
+<!-- - Helping prepare portions of reports and proposals, including both writing and data displays --> 
 
 
 ### Software and Tools
