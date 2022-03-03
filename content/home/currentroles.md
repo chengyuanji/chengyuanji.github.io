@@ -38,7 +38,7 @@ style="
 margin:0px 0px 0px 0px;
 padding: 0px 0px 0px 0px;
 ">
-RLadies Presenter: Intro to {box} Package 
+RLadies Presenter: Introduction to {box}
 </h3> 
 
 *R Ladies Twin Cities • [meetup](https://www.meetup.com/rladies-tc/events/284010281/?_xtd=gatlbWFpbF9jbGlja9oAJGRjMjIxYTM4LWEwZjQtNDE2OS04NmU3LWU0ZWFhZDg2MDgwNQ) • Mar 2022*  
