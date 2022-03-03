@@ -24,11 +24,21 @@ projects: []
 
 
 - Develop and manage datasets with documentation 
-- Creating analytic files per project team requests
-- Developing reproducible programs for data management tasks
-- Production of tables or preparation of material to support analyses
-- Create and design data visualizations (both static and dynamic)
-- Develop and maintain R Shiny applications for clients  
+  * Weekly data reporting from state organizations
+  * Monthly survey results from individuals 
+- Create analytic files per project team requests 
+  * Aggregate and calculate averages for different slices of data
+  * Clean character strings for consistency and add factoring 
+- Develop reproducible programs for data management tasks 
+  * Pull data, clean data, create report with updated results
+- Produce tables and prepare materials to support analyses 
+- Create and design data visualizations (both static and dynamic) 
+- Experience working with Department of Labor's WIPS data (which utilizes the PIRL)
+- Develop and maintain R Shiny applications 
+  * Maintain: [Department of Labor: Lead Center's Data Visualization  Tool](https://leadcenter.org/workforce-development/wioa-data-visualization-tool/)
+  * Developed and Maintain: [Department of Labor Employment and Training Administration: Workforce Performance: WIOA by the Numbers](https://www.dol.gov/agencies/eta/performance/results/interactive-data-analysis) 
+
+
 
 <!-- - Helping prepare portions of reports and proposals, including both writing and data displays --> 
 

@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "Current Role"
+title = "Current"
 subtitle = ""
 
 [design]
@@ -27,13 +27,12 @@ Research Programmer
 
 *Social Policy Research Associates (SPR) • Oakland, CA • Aug 2020*  
 - Develop and manage datasets with documentation 
-- Creating analytic files per project team requests
-- Developing reproducible programs for data management tasks
-- Production of tables or preparation of material to support analyses
-- Create and design data visualizations (both static and dynamic)
-- Develop and maintain R Shiny applications for clients, such as [WIOA by the Numbers](https://www.dol.gov/agencies/eta/performance/results/interactive-data-analysis) 
-
-
+- Create analytic files per project team requests
+- Develop reproducible programs for data management tasks
+- Produce tables and prepare materials to support analyses 
+- Create and design data visualizations (both static and dynamic) 
+- Develop and maintain R Shiny applications for clients such as [Department of Labor Employment and Training Administration’s Workforce Performance: WIOA by the Numbers](https://www.dol.gov/agencies/eta/performance/results/interactive-data-analysis) 
+<br>
 <h3 
 style="
 margin:0px 0px 0px 0px;
