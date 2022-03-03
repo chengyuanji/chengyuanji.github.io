@@ -69,7 +69,7 @@ Hello!  I'm Martha (she/her/hers) and currently I am a research programmer at So
 
 <p align='left'>
 I am tracking the COVID-19 data as it becomes available; you can see it 
-<a href=https://github.com/MarEichler/covid19 target="_blank">here</a>.
+<a href=https://github.com/MarEichler/covid19_app target="_blank">here</a>.
 </p> 
 
 <html>

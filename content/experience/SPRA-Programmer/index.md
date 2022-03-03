@@ -28,9 +28,18 @@ projects: []
 - Developing reproducible programs for data management tasks
 - Production of tables or preparation of material to support analyses
 - Create and design data visualizations (both static and dynamic)
-- Develop and maintain R Shiny applications for clients 
+- Develop and maintain R Shiny applications for clients  
 
 <!-- - Helping prepare portions of reports and proposals, including both writing and data displays --> 
+
+### R Shiny Application: WIOA by the Numbers 
+
+- Solely developed and maintain application for US Department of Labor (DOL) Employment and Training Administration (ETA) 
+- Live on DOL's website: [dol.gov/agencies/eta/performance/results/interactive-data-analysis](https://www.dol.gov/agencies/eta/performance/results/interactive-data-analysis) 
+- Screen shots of application are also shown below 
+
+
+{{< gallery album="rshinywioa" >}} 
 
 
 ### Software and Tools

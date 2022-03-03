@@ -20,7 +20,7 @@ subtitle = ""
   icon = "seedling"
   icon_pack = "fas"
   name = "Vegan"
-  description = "Go Vegan! For [the animals](https://www.dominionmovement.com/watch), [the planet](https://science.sciencemag.org/content/360/6392/987), and [yourself](https://gamechangersmovie.com/)."
+  description = "Go Vegan! For [the animals](https://www.dominionmovement.com/watch), [the planet](/files/2018_Science.pdf), and [yourself](https://gamechangersmovie.com/)."
   
 [[feature]]
   icon = "recycle"
@@ -44,7 +44,7 @@ subtitle = ""
   icon = "hockey-puck"
   icon_pack = "fas"
   name = "Hockey"
-  description = "Being from Minneasota, it's no surprise that I love watching hockey, especially the [Whitecaps](https://whitecaps.nwhl.zone/) and the [Wild](https://www.nhl.com/wild)"
+  description = "Being from Minnesota, it's no surprise that I love watching hockey, especially the [Whitecaps](https://whitecaps.nwhl.zone/) and the [Wild](https://www.nhl.com/wild)"
   
 
 +++
