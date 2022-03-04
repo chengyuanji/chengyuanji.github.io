@@ -5,8 +5,8 @@
 
 
 [[main]]
-  name = "Current Roles"
-  url = "#currentroles"
+  name = "Current"
+  url = "#current"
   weight = 1
 
 [[main]]
