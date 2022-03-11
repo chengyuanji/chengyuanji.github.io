@@ -25,7 +25,7 @@ Internal Communications Chair responsibilities focus on managing communications 
   <li> Organizing WIST members schedules to identify optimal event times
   <li> Built <a href ='https://wistnu.netlify.app/' target = "_blank" > WIST website </a> using the Academic Hugo template, <a href = 'https://github.com/WISTNU/website' target = "_blank"> <i class="fab fa-github"></i> GitHub </a>
   <li> Schedule quarterly WIST lunches
-  <li> Facilitating weekly book discussions 
+  <li> Facilitate weekly book discussions 
       <ul>
           <li> Update and maintain <a href="https://mareichler.github.io/WISTDiscussion/" target = "_blank">  discussion web page </a> 
           <li> Write discussion questions 

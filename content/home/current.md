@@ -41,8 +41,8 @@ padding: 0px 0px 0px 0px;
 RLadies Presenter: Introduction to {box}
 </h3> 
 
-*R Ladies Twin Cities • [meetup](https://www.meetup.com/rladies-tc/events/284010281/?_xtd=gatlbWFpbF9jbGlja9oAJGRjMjIxYTM4LWEwZjQtNDE2OS04NmU3LWU0ZWFhZDg2MDgwNQ) • Mar 2022*  
-Talk of approximately 20 minutes giving an introduction to the {box} package, which allows the user to create modularized code in R without having to develop a full package.  
+*R Ladies Twin Cities • [meetup](https://www.meetup.com/rladies-tc/events/284010281/?_xtd=gatlbWFpbF9jbGlja9oAJGRjMjIxYTM4LWEwZjQtNDE2OS04NmU3LWU0ZWFhZDg2MDgwNQ) • Mar 10, 2022*  
+Presentation introducing the {box} package, which allows the user to create modularized code in R without having to develop a full package.  
 [View Slides](https://MarEichler.github.io/rladies_box_intro/)  
 [View GitHub Repository](https://github.com/MarEichler/rladies_box_intro)
 
