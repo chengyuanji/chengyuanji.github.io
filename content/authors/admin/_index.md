@@ -1,6 +1,6 @@
 ---
 # Display name
-name: M. Y. Eichlersmith
+name: Chengyuan Ji (季程远)
 
 # Username (this should match the folder name)
 authors:
@@ -13,7 +13,7 @@ superuser: true
 #role: 
 
 #  Organizations/Affiliations
-#organizations:
+organizations: Shanghai Jiao Tong University
 #- name: 
 #  url: ""
 
@@ -27,12 +27,10 @@ bio: ''
 
 education:
   courses:
-  - course: Graduate Student in Statistics  
-    institution: Northwestern University 
-    year: On-going
-  - course: BA in Mathematics 
-    institution: Gustavus Adolphus College
-    year: 2015
+  - course: Phd in Political Science  
+    institution: Peking University 
+    year: 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
